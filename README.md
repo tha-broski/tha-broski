@@ -21,12 +21,6 @@ I once appeared on the Polish TV quiz show **"1 z 10"**.
 
 ---
 
-## GitHub Stats
-
-![Marcin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tha-broski&show_icons=true&theme=radical)
-
----
-
 ## Contact
 
 📧 Email: dabrowskimarcin2001@gmail.com 
